@@ -7,7 +7,7 @@
 }
 
 body {
-    background-image: url("./fotoinicio copia.jpg");
+    background-image: url("fotoinicio copia.jpg");
     background-size: 100%;
     background-position: center top;
     background-repeat: no-repeat;
@@ -25,7 +25,7 @@ body {
 }
 
 .enterbutton:hover {
-    content: url(./enterhover.png);
+    content: url(enterhover.png);
 }
 
 
