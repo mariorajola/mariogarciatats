@@ -1,0 +1,56 @@
+* {
+    font-family: Poppins;
+}
+
+nav {
+    margin-top: 20px;
+    background-color: black;
+    padding: 10px 0;
+    position: sticky;
+}
+
+nav a {
+    text-decoration: none;
+    color: white;
+    padding-right: 60px;
+    padding-left: 5px;
+    border-right: 1px white solid;    
+}
+
+nav a:hover {
+    color: red;
+    
+}
+
+h1 {
+    text-align: center;
+    margin-top: 25px;
+    text-decoration: underline;
+}
+
+.logoblog {
+    height: 8%;
+    width: 8%;
+    margin: 60px auto 0;
+    display: block;
+    border: 2px rgb(65, 179, 146) solid;
+    padding: 10px 60px;
+    border-radius: 50%;
+    }
+
+.blogpost {
+    display: block;
+    width: 50%;
+    margin: 30px auto 150px;
+    text-align: left;
+}
+
+.blogpost img {
+    width: 100%;
+}
+
+.blogpost figcaption {
+    margin: 5px 30px;
+    font-style: italic;
+    font-weight: 200;
+}
